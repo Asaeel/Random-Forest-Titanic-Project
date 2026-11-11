@@ -20,3 +20,7 @@ The dataset used is the Titanic dataset (from Seaborn), which contains demograph
 
 ##  Results
 The model achieved strong predictive performance and provided insights into which features most influenced survival.
+
+---
+
+تم عمل المشروع مع زميلتي [@reemfaiz](https://github.com/reemfaiz)
